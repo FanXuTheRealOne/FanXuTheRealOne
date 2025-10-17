@@ -13,8 +13,8 @@ Currently working on a Motion Capture project
 
 ## 🚀 Skills
 
-- Programming: Python, C/C++, JavaScript
-- ML/DL Frameworks: TensorFlow, PyTorch, scikit-learn
+- Programming: Python, C, Java
+- ML/DL Frameworks: PyTorch, scikit-learn
 - Data Science: Pandas, NumPy, Matplotlib
 
 ## 📈 Projects
